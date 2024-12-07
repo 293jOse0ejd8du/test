@@ -1,4 +1,6 @@
 {
     "whitelisted": [],
-    "premium": []
+    "premium": [
+        "TestUser"
+    ]
 }
