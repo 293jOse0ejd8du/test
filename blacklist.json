@@ -1,3 +1,5 @@
 {
-    "blacklisted_hwids": []
+    "blacklisted_hwids": [
+        "c4cf9267-182b-4b4e-a8b6-98a5feda26a4"
+    ]
 }
